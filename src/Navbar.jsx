@@ -8,4 +8,5 @@ export default function Navbar() {
         </h1>
         </nav>
     )
+    
 }

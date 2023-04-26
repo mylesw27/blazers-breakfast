@@ -1,9 +1,11 @@
-
+import React from 'react';
 
 export default function Navbar() {
     return(
         <nav class="navigation">
-        <h1 class="">Blazer's Breakfast</h1>
+        <h1 class="">
+            Blazer's Breakfast
+        </h1>
         </nav>
     )
 }

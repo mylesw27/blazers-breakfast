@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Logo/>
-    <MenuNavigation />
+      <MenuNavigation />
     </div>
   );
 }

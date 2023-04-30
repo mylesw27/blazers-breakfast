@@ -1,5 +1,5 @@
 import './App.css';
-import Logo from './Logo'
+import Logo from './logo/Logo'
 import MenuNavigation from '././menu/MenuNavigation'
 import React from 'react';
 

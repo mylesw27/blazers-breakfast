@@ -1,13 +1,12 @@
-import './App.css';
-import Logo from './Logo'
 import MenuNavigation from '././menu/MenuNavigation'
 import React from 'react';
+import Logo from './logo/Logo'
 
 function App() {
   return (
     <div>
       <Logo/>
-    <MenuNavigation />
+      <MenuNavigation />
     </div>
   );
 }

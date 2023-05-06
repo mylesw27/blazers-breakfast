@@ -4,7 +4,7 @@ export default function Navbar() {
     return(
         <nav class="navigation">
         <h1 class="">
-            Blazer's Breakfast
+            nav here
         </h1>
         </nav>
     )

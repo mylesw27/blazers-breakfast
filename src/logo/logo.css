@@ -1,0 +1,9 @@
+.logo-style {
+    padding-top: 10px;
+    height: 100px;
+    width: 150px;
+}
+
+.restaurant-name {
+    display: inline-flex;
+}

@@ -6,7 +6,7 @@ function Logo() {
     <div>
       <a href="localhost:3000"> 
        <img src={require('./sample-logo.png')} class="logo-style"/>
-       </a>
+      </a>
        <h2 class="restaurant-name">Blazer's Breakfast</h2>
     </div>
   );
